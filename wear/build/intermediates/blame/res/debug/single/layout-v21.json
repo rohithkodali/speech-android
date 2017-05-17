@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/rohit/Desktop/pocketsphinx-android-demo/wear/build/intermediates/res/merged/debug/layout-v21/overlay_confirmation.xml",
+        "source": "/home/rohit/Desktop/pocketsphinx-android-demo/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0/res/layout-v21/overlay_confirmation.xml"
+    },
+    {
+        "merged": "/home/rohit/Desktop/pocketsphinx-android-demo/wear/build/intermediates/res/merged/debug/layout-v21/accept_deny_dialog.xml",
+        "source": "/home/rohit/Desktop/pocketsphinx-android-demo/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0/res/layout-v21/accept_deny_dialog.xml"
+    },
+    {
+        "merged": "/home/rohit/Desktop/pocketsphinx-android-demo/wear/build/intermediates/res/merged/debug/layout-v21/dismiss_overlay.xml",
+        "source": "/home/rohit/Desktop/pocketsphinx-android-demo/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0/res/layout-v21/dismiss_overlay.xml"
+    }
+]

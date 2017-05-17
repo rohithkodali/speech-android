@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/exploded-aar/pocketsphinx-android-demo/models/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3eace143c03884bf42f7c2e4994edf5d8b98f4ca">
+        <dex dex="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/pre-dexed/debug/pocketsphinx-android-demo-models-unspecified_2ef95a32f63e935a00f44841f1cbef5f2c7620b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_38bf53cf299b164338f520eca6ce1dd96ac9fac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_5cfd70c5d25f639eb895e4dc16484b73b383ca91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_370f5de934534f21db6875c4503ff742a68fc309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/exploded-aar/pocketsphinx-android-demo/aars/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6849e24d764fc75a3df80f7c1e39196c885c4f8b">
+        <dex dex="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/pre-dexed/debug/pocketsphinx-android-demo-aars-unspecified_fa0ee0a1a20b20f6826f4516a75d1f0fccab14e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rohit/speech/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_25f6a29d7424bcb5acf24dbb9042697904f1b34f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_59354758011db192c6de41ac1b6cc8a6b156c32a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_9e8eace7be49709e9801e07291e87c3159c9f78c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_b89a8fdc3d094cfc0561fecd2799dc93ab31c268.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_6788f70cc26e291331f6dde43d5c2f09074ecd79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_46358b035338f4a5f41680248496b2bcae2b8f32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/rohit/Desktop/pocketsphinx-android-demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_976bc92fe55dcddfe725aac4958b14c62e7241dc.jar" />
+    </item>
+
+</items>
